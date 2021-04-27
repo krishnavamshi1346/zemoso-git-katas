@@ -1,0 +1,1 @@
+this is staged file in stashing
