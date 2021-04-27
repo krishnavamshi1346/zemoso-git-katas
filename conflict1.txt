@@ -1,1 +1,1 @@
-This is conflic1.txt.This is master branch
+This is conflict1.txt.This is Mergesort-Impl branch.
