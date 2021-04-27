@@ -1,1 +1,3 @@
-This is conflict file.This is merge-conflict1-branch.
+
+This is a conflict file.Merged conflict resolved.
+
