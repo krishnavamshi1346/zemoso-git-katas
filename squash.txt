@@ -1,0 +1,3 @@
+This is a squash module.
+We use amend command
+This is squash.txt file
