@@ -1,0 +1,2 @@
+This is squash1.txt
+This is added before commit named "Before Squashing Commit"
