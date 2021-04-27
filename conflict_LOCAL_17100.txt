@@ -1,0 +1,1 @@
+This is conflict file.This is merge-conflict1-branch.
