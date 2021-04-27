@@ -1,2 +1,0 @@
-GOOD MORNING.THIS IS UPPER CASE GREETING.
-Now changing the file in greeting branch.
