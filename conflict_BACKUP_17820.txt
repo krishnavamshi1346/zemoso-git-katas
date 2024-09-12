@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This is conflict file.This is merge-conflict1-branch.
+=======
+This is a conflict file.This is master branch
+>>>>>>> master
